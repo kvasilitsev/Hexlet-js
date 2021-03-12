@@ -1,0 +1,20 @@
+{
+  "name": "hexlet",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Мой первый проект на Хекслете new comment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kvasilitsev/Hexlet-js.git"
+  },
+  "author": "Konstantin Vasilitsev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kvasilitsev/Hexlet-js/issues"
+  },
+  "homepage": "https://github.com/kvasilitsev/Hexlet-js#readme"
+}
