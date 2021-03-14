@@ -1,4 +1,7 @@
 console.log("Hello, Hexlet!");
-import _ from 'lodash';
+import _ from "lodash";
 console.log(_.capitalize("hELLO"));
-console.log(_.last(['one', 'two']));
+console.log(_.last(["one", "two"]));
+
+
+const a=25;
